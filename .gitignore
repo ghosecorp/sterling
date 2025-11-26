@@ -1,0 +1,5 @@
+sterling_server.egg*/
+__pycache__/
+commands.txt
+.env*/
+dist/
